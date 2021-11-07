@@ -10,7 +10,7 @@ You don't need anymore than a browser, I will recomend you use Chome to have the
 ## Description
 I worked with React Web Components, React states, `<select>` , `<option>` and `onChage` elements.
 I did Input Validations and canstings for example `Number(event.target.value)`.
-The project is to apply Validations, handle React States and understand the components that are going to render in our browsers, in this project I hided elememts and avoid that users can't withdraw more money that they can have.
+The project is to apply Validations, handle React States and understand the components that are going to render in our browsers, in this project I hided elements and avoid that users can't withdraw more money that they can have.
 
 ## Support
 If you have a questions or comments you can write me at: 
